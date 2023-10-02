@@ -1,8 +1,8 @@
-Jack - personal portfolio
+Sanjay - personal portfolio
 
-# HEDER
+# HEADER
 
-Jack.
+Sanjay.
 
 En
 Ar
@@ -23,55 +23,40 @@ Contact.
 
 # HERO
 
-alt = A man in a blue shirt with a happy expression
+alt = A man in Dark with a happy expression
 
-We Design & Build Creative Products
+I will Design & Build Creative Products
 
 Get in touch
 
 <ion-icon name="logo-facebook"></ion-icon>
 Facebook
 
-<ion-icon name="logo-twitter"></ion-icon>
-Twitter
+<ion-icon name="logo-instagram"></ion-icon>
+Instagram
 
 <ion-icon name="logo-linkedin"></ion-icon>
 Linkedin
 
+<ion-icon name="logo-github"></ion-icon>
+Github
+
 Scroll
-
-
-
-# STATS
-
-alt = Badge icon
-
-12+
-Years of Experience
-
-<ion-icon name="chevron-forward-outline"></ion-icon>
-
-alt = Checkmark icon
-
-230+
-Completed Projects
-
-alt = Peoples rating icon
-
-95+
-Happy Clients
-
 
 
 # ABOUT
 
-alt = A man in a alice blue shirt with a thinking expression
+alt = A man in a Dark with a thinking expression
 
 About me
 
-Need a Creative Product? I can Help You!
+How can I Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+ Hi! I’m Sanjay R J, and I’m a developer who has passion for building clean web applications with intuitive
+ functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. 
+ I had completed my B.E CSE degree in 
+ CMS College of Engineering and Technology at Coimbatore. I'd like to interest in web Development role 
+ So I Started to pursuing Full Stack Development course in GUVI, IIT Madras. 
 
 Hire me
 
@@ -99,42 +84,14 @@ alt = CSS3 logo
 JavaScript
 alt = JavaScript logo
 
-TypeScript
-alt = TypeScript logo
-
-jQuery
-alt = jQuery logo
-
 Bootstrap
 alt = Bootstrap logo
-
-Angular
-alt = Angular logo
 
 React
 alt = React logo
 
-Vue
-alt = Vue logo
-
-Firebase
-alt = Firebase logo
-
-PugJs
-alt = PugJs logo
-
-SASS
-alt = SASS logo
-
-
 Ajax
 alt = Ajax logo
-
-Gulp
-alt = Gulp logo
-
-Webpack
-alt = Webpack logo
 
 Git
 alt = Git logo
@@ -148,20 +105,6 @@ alt = Command Line logo
 VS Code
 alt = VS Code logo
 
-Trello
-alt = Trello logo
-
-ClickUp
-alt = ClickUp logo
-
-Slack
-alt = Slack logo
-
-Photoshop
-alt = Photoshop logo
-
-Adobe XD
-alt = Adobe XD logo
 
 
 
@@ -171,29 +114,15 @@ My Works
 
 See My Works Which Will Amaze You!
 
-We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+The above mentioned are my few projects.Kindly check it.Further more details contact me.
 
-alt = A macintosh on a yellow background.
-Lorem Ipsum Dolor 01
-April 2022
-
-alt = On a Blue background, a Wacom and a mouse.
-Lorem Ipsum Dolor 02
-
-alt = A Cassette tape on a mellow apricot background.
-Lorem Ipsum Dolor 03
-
-alt = Blue digital watch on a dark liver background.
-Lorem Ipsum Dolor 04
-
-alt = On a dark liver background, Airport luggage car carrying a luggage.
-Lorem Ipsum Dolor 05
-
-alt = On a yellow background, a digital watch and a glass.
-Lorem Ipsum Dolor 06
-
-alt = A fujifilm instant camera on a dark electric blue background.
-Lorem Ipsum Dolor 07
+alt = Travel landing website 01
+alt = Restaurant landing website 02
+alt = Easybank website 03
+alt = Dice Game 04
+alt = Restcountries API 05
+alt = Animation Design 06
+alt = MedicoSales Dashboard 07
 
 Load more work
 
@@ -209,17 +138,15 @@ Get in touch and let me know how i can help. Fill out the form and i’ll be in 
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
-(01) 234 567 789
-(09) 765 432 200
+
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -228,11 +155,11 @@ support@jack.com
 
 Name
 <ion-icon name="person-circle"></ion-icon>
-placeholder = e.g John Doe
+placeholder = e.g sanjay
 
 Email
 <ion-icon name="mail"></ion-icon>
-placeholder = e.g johndoe@mail.com
+placeholder = e.g sanjayramachandran2002@gmail.com
 
 Phone
 <ion-icon name="call"></ion-icon>
@@ -248,9 +175,9 @@ Send
 
 # FOOTER
 
-Jack.
+Sanjay.
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2023 Sanjay. All rights reserved
 
 
 
